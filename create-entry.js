@@ -24,13 +24,13 @@ function createWritingEntry(title) {
   fs.ensureDirSync(draftsDir);
 
   // Create the content template
-  const contentTemplate = `# {{title}}
+  const contentTemplate = `# ${title}
 
-> {{summary}}
+> A brief summary of your post that appears on the homepage and in RSS feeds.
 
 {{date}}
 
-{{body}}
+Your article content goes here. Markdown formatting is supported.
 
 ## Example Tweet Embed
 
@@ -40,22 +40,14 @@ To embed a tweet, use the following syntax:
 ::tweet(tweetUrl)
 \`\`\`
 
-You can use any of these formats:
+The URL must be a complete Twitter/X URL that includes both the username and status ID:
 
 \`\`\`markdown
-::tweet(https://x.com/username/status/1909231499448401946)
-::tweet(1909231499448401946)
+::tweet(https://twitter.com/username/status/1234567890123456789)
+::tweet(https://x.com/username/status/1234567890123456789)
 \`\`\`
 
-The extension will automatically extract the tweet ID from the URL.
-
-### Controlling Light/Dark Mode
-
-You can also control whether the tweet renders in light or dark mode:
-
-::tweet(1234567890123456789, light)  // Force light mode
-::tweet(1234567890123456789, dark)   // Force dark mode
-::tweet(1234567890123456789)         // Auto (follows system preference)
+Note: Just using a tweet ID without the username won't work as X.com requires the username in the URL.
 `;
 
   // Write the file
