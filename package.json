@@ -4,7 +4,8 @@
   "description": "A simple static site generator",
   "main": "index.js",
   "scripts": {
-    "build": "node index.js"
+    "build": "node index.js",
+    "new": "node create-entry.js"
   },
   "keywords": [],
   "author": "Nan Yu",
@@ -13,6 +14,7 @@
     "chokidar": "^3.6.0",
     "fs-extra": "^11.2.0",
     "marked": "^14.0.0",
-    "marked-footnote": "^1.2.4"
+    "marked-footnote": "^1.2.4",
+    "rss": "^1.2.2"
   }
 }
