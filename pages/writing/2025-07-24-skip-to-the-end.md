@@ -19,9 +19,9 @@ But today you can snap a picture on your phone and [identify the exact species](
 
 What was virtually impossible became **trivial** in a hurry.
 
-The basic assumptions we had about how computers work have flipped. The IT brain has always tried to attack messy real-world problems by surrounding them in a logical ring-fence. They keep holding onto this notion that computers are tools in the same way that shovels and drills are tools. Tools are just a means to get to an end. Shovels are for making holes in the ground. Drills are for making holes in the wall.
+The basic assumptions we had about how computers work have flipped. The IT-indoctrinated brain has always tried to attack messy real-world problems by surrounding them in a logical ring-fence. They keep holding onto this notion that computers are tools in the same way that shovels and drills are tools. They're a means to an end. Shovels are a means for making holes in the ground. Drills are means for making [holes in the wall](https://www.library.hbs.edu/working-knowledge/what-customers-want-from-your-products).
 
-To really take advantage of what AI can do, devs need to start thinking about software differently— not as the means to but as the ends. Don't deliver tools that allow users to achieve outcomes. Just deliver the outcomes.
+To really take advantage of what AI can do, developers need to start thinking about software differently— not as the means to but as the ends. Don't deliver tools that allow users to achieve outcomes. Just deliver the outcomes.
 
 - Rather than giving users folders, tags, and naming conventions computers can just understand and organize their content.
 
