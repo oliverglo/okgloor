@@ -20,6 +20,22 @@ marked.use({
   breaks: true
 });
 
+// Add custom image renderer to include title attributes
+marked.use({
+  renderer: {
+    image(token) {
+      // In marked v14, the renderer receives a token object
+      const href = token.href;
+      const title = token.title;
+      const text = token.text;
+
+      // Use alt text as title if no title is provided
+      const titleAttr = title || text;
+      return `<img src="${href}" alt="${text}"${titleAttr ? ` title="${titleAttr}"` : ''}>`;
+    }
+  }
+});
+
 // Ensure output directory exists
 fs.ensureDirSync(outputDir);
 

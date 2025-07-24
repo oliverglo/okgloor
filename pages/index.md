@@ -7,6 +7,10 @@ Head of Product at [Linear](https://linear.app)
 Previously CTO at [Everlane](https://www.everlane.com/), VPP at [Mode](https://mode.com/)
 Lives in Brooklyn, NY
 
+## Writing
+
+{{writing}}
+
 ## Talks and Interviews
 [Interview with Aakash Gupta](https://www.youtube.com/watch?v=e_T8Sn8s46M)
 : *Jul 2025* — "Crash Course: AI Agents for Coding" we and discuss and demonstrate the future of AI agentic work. [Apple](https://podcasts.apple.com/us/podcast/how-linear-built-a-%241-25b-unicorn-with-just-2-pms/id1763555775?i=1000718097708), [Spotify](https://open.spotify.com/show/7vVEMqCSKb7I7xPk8xZtg5)
@@ -16,10 +20,6 @@ Lives in Brooklyn, NY
 
 [The Heirloom Tomato Org Chart](https://www.youtube.com/watch?v=I4vvBidQcck)
 : *Jun 2024* — a talk I gave Figma Config about common anti-patterns in startup org chart design and how these decisions affect your product
-
-## Writing
-
-{{writing}}
 
 ## Contact
 

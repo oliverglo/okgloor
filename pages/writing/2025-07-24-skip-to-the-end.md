@@ -1,0 +1,34 @@
+# Skip to the end
+>  Computers gave us the means, but AI gives us the ends
+
+{{date}}
+
+If you're a developer from a certain era (i.e. pre-2021), then you've grown-up being indoctrinated into the **IT school of thought**. You reflexively see every problem you encounter through the lens of relational databases and form submissions.
+
+You might even judge how "technical" someone is by their ability to massage real-world problems into table schemas and imperative logic.
+
+You probably thought [this](https://xkcd.com/1425/) was a funny joke once...
+
+![for the first 75 years of computing, this was a good joke](assets/images/ai-brain-xkcd.png)
+
+...and for the first 75 years of computing—from 1945 to 2020—it was.
+
+Database lookups were trivial, computer vision was virtually impossible. IT-brained programmers knew this. Ignorant normal people didn't.
+
+But today you can snap a picture on your phone and [identify the exact species](https://merlin.allaboutbirds.org/) of bird you just saw, and the best way to know if a picture was taken in a national park isn't to examine its metadata, but to [simply ask](https://www.youtube.com/watch?v=ts5lPDV--cU).
+
+What was virtually impossible became **trivial** in a hurry.
+
+The basic assumptions we had about how computers work have flipped. The IT brain has always tried to attack messy real-world problems by shedding the details and reducing them to pure logic. We approached problems obliquely, and contained them in a logical ring-fence.
+
+**Now, for a growing number of cases, we can just skip to the end and address problems directly.**
+
+- Rather than giving users folders, tags, and naming conventions computers can just understand and organize their content.
+
+- Rather than asking users to construct state machines and write in DSLs computers can simply ask for rules in plain language.
+
+- Instead of requiring users to learn a templating language and string replacements computers can simply writing each messages en mass.
+
+There are countless more examples, but I don't yet see developers breaking their old IT-brained habits. They keep holding onto this notion that computers are tools in the same way that picks, shovels, and chainsaws are tools— lifeless, unthinking, objects. I want to shake them and open their eyes.
+
+The opportunity sitting right in front of us is to stop asking users to conform to the constraints of a database and to start asking computers to think like people.

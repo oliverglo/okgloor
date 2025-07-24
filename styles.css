@@ -100,12 +100,40 @@ a:hover {
 
 /* Lists */
 ul, ol {
-  margin: 0.5rem 0;
-  padding-left: 1.5rem;
+  margin: 1.25rem 0; /* Match paragraph spacing for vertical rhythm */
+  padding-left: 0;
+  list-style: none;
 }
 
 li {
   margin: 0.25rem 0;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+/* Custom em dash bullets for unordered lists */
+ul li::before {
+  content: "—"; /* Em dash */
+  position: absolute;
+  left: 0;
+  color: var(--text-color-light);
+}
+
+/* Numbers for ordered lists */
+ol {
+  counter-reset: list-counter;
+}
+
+ol li {
+  counter-increment: list-counter;
+}
+
+ol li::before {
+  content: counter(list-counter) ".";
+  position: absolute;
+  left: 0;
+  color: var(--text-color-light);
+  font-weight: 600;
 }
 
 /* Horizontal rule */
