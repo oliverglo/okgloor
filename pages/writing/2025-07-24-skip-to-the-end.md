@@ -19,9 +19,9 @@ But today you can snap a picture on your phone and [identify the exact species](
 
 What was virtually impossible became **trivial** in a hurry.
 
-The basic assumptions we had about how computers work have flipped. The IT brain has always tried to attack messy real-world problems by shedding the details and reducing them to pure logic. We approached problems obliquely, and contained them in a logical ring-fence.
+The basic assumptions we had about how computers work have flipped. The IT brain has always tried to attack messy real-world problems by surrounding them in a logical ring-fence. They keep holding onto this notion that computers are tools in the same way that shovels and drills are tools. Tools are just a means to get to an end. Shovels are for making holes in the ground. Drills are for making holes in the wall.
 
-**Now, for a growing number of cases, we can just skip to the end and address problems directly.**
+To really take advantage of what AI can do, devs need to start thinking about software differently— not as the means to but as the ends. Don't deliver tools that allow users to achieve outcomes. Just deliver the outcomes.
 
 - Rather than giving users folders, tags, and naming conventions computers can just understand and organize their content.
 
@@ -29,6 +29,4 @@ The basic assumptions we had about how computers work have flipped. The IT brain
 
 - Instead of requiring users to learn a templating language and string replacements computers can simply writing each messages en mass.
 
-There are countless more examples, but I don't yet see developers breaking their old IT-brained habits. They keep holding onto this notion that computers are tools in the same way that picks, shovels, and chainsaws are tools— lifeless, unthinking, objects. I want to shake them and open their eyes.
-
-The opportunity sitting right in front of us is to stop asking users to conform to the constraints of a database and to start asking computers to think like people.
+Don't make drills or shovels, make holes.
