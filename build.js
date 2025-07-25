@@ -327,5 +327,6 @@ function compile() {
 // Initial compilation
 compile();
 
-// Start the watcher
-startWatcher(pagesDir, stylesFile, compile);
+// Remove the automatic watcher startup - this is now build-only
+
+module.exports = { compile };

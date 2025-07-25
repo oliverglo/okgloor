@@ -2,10 +2,11 @@
   "name": "sss",
   "version": "1.0.0",
   "description": "A simple static site generator",
-  "main": "index.js",
+  "main": "build.js",
   "scripts": {
-    "build": "node index.js",
-    "new": "node create-entry.js"
+    "build": "node build.js",
+    "dev": "node dev.js",
+    "new": "node new-post.js"
   },
   "keywords": [],
   "author": "Nan Yu",

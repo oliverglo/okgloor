@@ -60,7 +60,7 @@ const title = process.argv.slice(2).join(' ');
 
 if (!title) {
   console.error('Please provide a title for the writing entry');
-  console.error('Usage: node create-entry.js Your Title Here');
+  console.error('Usage: node new-post.js Your Title Here');
   process.exit(1);
 }
 
