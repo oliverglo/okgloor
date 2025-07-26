@@ -7,6 +7,10 @@ BRANCH="main"
 # Ensure the script exits on any error
 set -e
 
+# Build the site first to ensure fresh content
+echo "Building site..."
+npm run build
+
 # Navigate to the dist directory
 cd dist
 
