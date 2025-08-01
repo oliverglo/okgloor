@@ -23,10 +23,10 @@ The basic assumptions we had about how computers work have flipped. The IT-indoc
 
 To really take advantage of what AI can do, developers need to start thinking about software differently— not as the means to but as the ends. Don't deliver tools that allow users to achieve outcomes. Just deliver the outcomes.
 
-- Rather than giving users folders, tags, and naming conventions computers can just understand and organize their content.
+- Rather than giving users folders, tags, and naming conventions, you can just understand and organize their content.
 
-- Rather than asking users to construct state machines and write in DSLs computers can simply ask for rules in plain language.
+- Rather than asking users to construct state machines and write in DSLs, you can just execute natural-language rules.
 
-- Instead of requiring users to learn a templating language and string replacements computers can simply writing each messages en mass.
+- Instead of requiring users to learn a templating system and string replacements, you can simply write custom messages en mass.
 
 Don't make drills or shovels, make holes.
