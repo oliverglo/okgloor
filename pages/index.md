@@ -1,11 +1,11 @@
-# Nan Yu
-I'm a technology leader and builder
+# Oliver Gloor
+Product Developer & Builder of lots of things
 
 ---
 
-Head of Product at [Linear](https://linear.app)
-Previously CTO at [Everlane](https://www.everlane.com/), VPP at [Mode](https://mode.com/)
-Lives in Brooklyn, NY
+Head of Product at [CH Media](https://chmedia.ch)
+Previously PM at [Tamedia](https://www.tamedia.ch/), Founder at [My own Startup](https://mode.com/)
+Lives in Zurich, CH
 
 ## Writing
 
