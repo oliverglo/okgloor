@@ -10,7 +10,6 @@ Lives in Zurich, CH
 ## Projects
 
 {{writing}}
-[My First Startup] (pages/writing/2020-01-24-my first startup-1.md)
 
 ## Talks and Interviews
 [Interview with Aakash Gupta](https://www.youtube.com/watch?v=e_T8Sn8s46M)
