@@ -12,7 +12,7 @@ Lives in Zurich, CH
 {{writing}}
 
 ## Some Project References
-[Interview with Aakash Gupta](https://www.youtube.com/watch?v=e_T8Sn8s46M)
+[Full IOS & Android Redesign](https://www.youtube.com/watch?v=e_T8Sn8s46M)
 : *Jul 2025* — "Crash Course: AI Agents for Coding" we and discuss and demonstrate the future of AI agentic work. [Apple](https://podcasts.apple.com/us/podcast/how-linear-built-a-%241-25b-unicorn-with-just-2-pms/id1763555775?i=1000718097708), [Spotify](https://open.spotify.com/show/7vVEMqCSKb7I7xPk8xZtg5)
 
 [Interview on Lenny's Podcast](https://www.youtube.com/watch?v=nTr21kgCFF4)
