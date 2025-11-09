@@ -9,7 +9,7 @@ Lives in Zurich, CH
 
 ## Projects
 
-{{writing}}
+{{projects}}
 [My First Startup] (pages/writing/2020-01-24-my first startup.md)
 
 ## Talks and Interviews
