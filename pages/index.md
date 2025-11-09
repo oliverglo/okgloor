@@ -9,7 +9,7 @@ Lives in Zurich, CH
 
 ## Projects
 
-{{projects}}
+{{writing}}
 
 ## Talks and Interviews
 [Interview with Aakash Gupta](https://www.youtube.com/watch?v=e_T8Sn8s46M)
