@@ -4,12 +4,12 @@ Product Developer & Builder of lots of things
 ---
 
 Head of Product at [CH Media](https://chmedia.ch)
-Previously PM at [Tamedia](https://www.tamedia.ch/), Founder at [My own Startup](https://mode.com/)
+Previously PM at [Tamedia](https://www.tamedia.ch/), Founder at [Dailivery – a delivery app](https://mode.com/)
 Lives in Zurich, CH
 
-## Writing
+## Projects
 
-{{writing}}
+{{projects}}
 
 ## Talks and Interviews
 [Interview with Aakash Gupta](https://www.youtube.com/watch?v=e_T8Sn8s46M)
