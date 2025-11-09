@@ -25,13 +25,13 @@ Lives in Zurich, CH
 
 Send me a note if you want to get in touch, or have advising or investment ideas
 
-- thenanyu at gmail
+- oliverdgloor at gmail
 - [X/Twitter](https://x.com/thenanyu)
-- [LinkedIn](https://www.linkedin.com/in/thenanyu/)
-- [Github](https://github.com/thenanyu)
+- [LinkedIn](https://www.linkedin.com/in/okgloor/)
+- [Github](https://github.com/oliverglo)
 - [RSS](feed.xml)
 
 
 <div class="footnotes" markdown='1'>
-  Built with <a href="https://github.com/thenanyu/sss">sss</a>, a simple static site generator (vibe)coded by me for the purpose of maintaining this&nbsp;website.
+  Built with ♡ by Oliver Gloor.
 </div>
