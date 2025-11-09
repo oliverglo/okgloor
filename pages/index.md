@@ -11,7 +11,7 @@ Lives in Zurich, CH
 
 {{writing}}
 
-## Talks and Interviews
+## Some Project References
 [Interview with Aakash Gupta](https://www.youtube.com/watch?v=e_T8Sn8s46M)
 : *Jul 2025* — "Crash Course: AI Agents for Coding" we and discuss and demonstrate the future of AI agentic work. [Apple](https://podcasts.apple.com/us/podcast/how-linear-built-a-%241-25b-unicorn-with-just-2-pms/id1763555775?i=1000718097708), [Spotify](https://open.spotify.com/show/7vVEMqCSKb7I7xPk8xZtg5)
 
@@ -26,7 +26,7 @@ Lives in Zurich, CH
 Send me a note if you want to get in touch, or have advising or investment ideas
 
 - oliverdgloor at gmail
-- [X/Twitter](https://x.com/thenanyu)
+- [X/Twitter](https://x.com/okgloor)
 - [LinkedIn](https://www.linkedin.com/in/okgloor/)
 - [Github](https://github.com/oliverglo)
 - [RSS](feed.xml)
