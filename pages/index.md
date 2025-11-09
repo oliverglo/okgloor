@@ -7,7 +7,7 @@ Head of Product at [CH Media](https://chmedia.ch)
 Previously PM at [Tamedia](https://www.tamedia.ch/), Founder at [Dailivery – a delivery app](https://mode.com/)
 Lives in Zurich, CH
 
-## Projects
+## Writing
 
 {{writing}}
 
